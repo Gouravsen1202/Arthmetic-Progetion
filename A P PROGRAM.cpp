@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){   
-	int a=1; 	 
+int main(){   	int a=1; 	 
 	int d=2; 
  	int n=5;
 	int term;
