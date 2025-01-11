@@ -5,7 +5,7 @@ int main(){
 	int d=2; 
  	int n=5;
 	int term;
-	for(int i=0;i<n;i++)
+ 	for(int i=0;i<n;i++)
 	{
 		term=a+i*d;
 	cout<<term<<endl;
